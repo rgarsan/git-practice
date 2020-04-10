@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name: Ironhacker
 Age: 35
 Favorite Color: yellow
+=======
+name: Rafa
+Age:35
+Favourite color: yellow
+>>>>>>> 86d2c3b999454822517c943516b4d8202e1886d8
